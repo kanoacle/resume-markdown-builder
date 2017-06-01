@@ -1,8 +1,8 @@
-# Your Name
+# Alex Ito
 
 1. 123 Manoa Drive Honolulu, HI 96822
 1. (808) 555-5555
-1. [github-url](https://github.com/andimiya)
+1. [github-url](https://github.com/USERNAME)
 1. [linkedin-url](linkedin-url)
 
 ## Objective
@@ -26,9 +26,9 @@ I am a web developer...(what profession are you seeking?)
 
 ## Professional Experience
 
-### Senior Software Developer
+### Software Developer
 #### Acme Corp, Honolulu
-##### HI 2014 – Present  
+##### HI 2014 – Present
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
@@ -38,10 +38,9 @@ I am a web developer...(what profession are you seeking?)
 #### Explanation of what this is
 ##### Jan - June 2017
 
-### Bachelor of Arts in Business Administration 
-#### Concentration in Marketing and International Business 
-#### Cumulative GPA: 3.74
-##### University of Oregon, 2005 – 2007
+### Bachelor of Arts in Computer Science 
+#### Concentration in Computer Science 
+#### Cumulative GPA: 4.0
 ##### University of Hawaii at Manoa , 2008 – 2009 
 
 ## Technical Skills
@@ -55,7 +54,7 @@ I am a web developer...(what profession are you seeking?)
 ### Web Skills
 - Responsive/Mobile First Web Development
 - Test/Behavior Driven Development
-- Relational - and Non-Relational Database Modeling 
+- Relational - and Non-Relational Database Modeling
 - User Authentication
 - API Integration
 
@@ -78,7 +77,7 @@ I am a web developer...(what profession are you seeking?)
 - GraphQl
 
 ### Database Proficiencies
-- PostgreSQL 
+- PostgreSQL
 - MongoDB
 
 ### Workflow/Testing Utilities
@@ -89,12 +88,6 @@ I am a web developer...(what profession are you seeking?)
 - SuperTest
 
 ### Business Development
-- Sitecore CMS ( Sitecore Certified)
-- Sitecore OMS (Sitecore Certified)
-- Sitecore DMS (Sitecore Certified)
-- Adobe Sitecatalyst (Omniture)
-- Adobe Test & Target
-- Farelogix Merchandising System Microsoft Sharepoint CMS
 - Web layouts and wire-framing
 - Adobe Photoshop CS6
 - Adobe Illustrator CS6
