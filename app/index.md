@@ -1,12 +1,12 @@
-# Alex Ito
+# Kanoa Cleveland
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [github-url](https://github.com/USERNAME)
-1. [linkedin-url](linkedin-url)
+1. 3640 Alani Drive, Honolulu, HI 96822
+1. (808) 218-4293
+1. [GitHub](https://github.com/kanoacle)
+1. [LinkedIn](https://www.linkedin.com/in/kanoa-cleveland-668203137/)
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+I'm a Full-Stack Javascript developer looking for a full-time position.
 
 ## Development Experience
 
@@ -37,11 +37,6 @@ I am a web developer...(what profession are you seeking?)
 ### DevLeague
 #### Explanation of what this is
 ##### Jan - June 2017
-
-### Bachelor of Arts in Computer Science 
-#### Concentration in Computer Science 
-#### Cumulative GPA: 4.0
-##### University of Hawaii at Manoa , 2008 – 2009 
 
 ## Technical Skills
 
